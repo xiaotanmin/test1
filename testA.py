@@ -3,7 +3,6 @@ import pytesseract
 from PIL import Image
 from fuzzywuzzy import fuzz
 
-sdcsdc
 word = '请登录后进行操作'
 # word ='智能调控空调系统，直到座舱降低至舒适温度'
 # word = '也许你会想顺道看个电影'
