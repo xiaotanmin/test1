@@ -1,11 +1,3 @@
 # @Author      : Mina Tan
 # @Created Time: 2023/1/4
-def test_case():
-    '''
-    提交到本地
-
-    dasdsdss
-    :return:
-    '''
-    pass
-
+就z鹤洋啊吧
